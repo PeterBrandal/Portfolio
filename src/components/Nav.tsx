@@ -40,7 +40,7 @@ export function Nav() {
           ))}
           <li>
             <a
-              href="https://github.com/peterabrandal"
+              href="https://github.com/PeterBrandal?tab=repositories"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted hover:text-fg transition-colors duration-200"

@@ -15,9 +15,9 @@ const projects: Project[] = [
     name: 'Dinder',
     year: '2025 – Present',
     description:
-      'Full-stack recipe exploration and meal planning platform. Browse and save recipes to a personal cookbook, plan your week\'s meals, and manage a grocery list — all with real-time sync and user auth.',
+      "Full-stack recipe exploration and meal planning platform. Browse and save recipes to a personal cookbook, plan your week's meals, and manage a grocery list — all with real-time sync and user auth.",
     tags: ['React', 'TypeScript', 'Supabase', 'TanStack Query'],
-    href: 'https://github.com/peterabrandal/dinder', // TODO: swap for live demo URL
+    href: 'https://dinder-mu.vercel.app/home',
     linkLabel: 'Live Demo ↗',
   },
   {
@@ -35,7 +35,7 @@ const projects: Project[] = [
     description:
       'Western-style 2D multiplayer gun dueling game for Android. Built with libGDX and Kryonet for real-time network synchronization between players. Demo available on request.',
     tags: ['Java', 'libGDX', 'Kryonet', 'Android'],
-    href: 'https://github.com/peterabrandal/duelmasters',
+    href: 'https://git.ntnu.no/pabranda/DuelMasters',
     linkLabel: 'GitHub ↗',
   },
 ]

@@ -9,6 +9,7 @@ export default {
         fg:      '#141414',
         muted:   '#888888',
         border:  '#e0dfd9',
+        surface: '#f0efe9',
       },
       fontFamily: {
         serif: ['Satoshi', 'system-ui', 'sans-serif'],

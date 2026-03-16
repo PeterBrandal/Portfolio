@@ -8,10 +8,10 @@ const reveal = {
 }
 
 const quickLinks = [
-  { label: 'GitHub',       href: 'https://github.com/peterabrandal',           symbol: '↗', external: true },
-  { label: 'LinkedIn',     href: 'https://linkedin.com/in/peter-brandal',       symbol: '↗', external: true },
+  { label: 'GitHub',       href: 'https://github.com/https://github.com/PeterBrandal?tab=repositories',           symbol: '↗', external: true },
+  { label: 'LinkedIn',     href: 'https://www.linkedin.com/in/peter-brandal-6277b532a/',       symbol: '↗', external: true },
   { label: 'peterabrandal@gmail.com', href: 'mailto:peterabrandal@gmail.com',  symbol: '→', external: false },
-  { label: 'CV / Resume',  href: '/CV_Peter_Brandal.pdf',                       symbol: '↓', external: false },
+  { label: 'CV / Resume',  href: '/CV_Peter_Brandal.pdf',                       symbol: '↓', external: true },
 ]
 
 export function About() {
